@@ -23,5 +23,3 @@ Permite criar usuários, contas, fazer depósitos, saques e consultar saldo e hi
 
 Você também pode testar diretamente no Repl:  
 [Clique aqui para abrir o Simple Bank](https://replit.com/@ccaimanteodoro/simple-bank-api)
-
----
