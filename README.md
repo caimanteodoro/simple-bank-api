@@ -17,5 +17,3 @@ Este é um projeto iniciante de um **sistema bancário simples** em Python.
 2. Copie os arquivos `main.py`, `user.py`, `account.py` e `transaction.py`
 3. Execute `main.py`  
 4. Siga o menu interativo para testar o banco
-
-## Exemplo de uso
