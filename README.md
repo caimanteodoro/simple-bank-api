@@ -12,9 +12,16 @@ Permite criar usuários, contas, fazer depósitos, saques e consultar saldo e hi
 - Ver saldo
 - Ver histórico de transações
 - sair
-  
-## Como rodar
 
-1. Abra o projeto no Repl: (https://replit.com/@ccaimanteodoro/simple-bank-api)  
-2. Clique em **Run**  
-3. Siga o menu interativo no terminal para testar o banco.
+## Tecnologias usadas
+
+- Python 3
+- Programação orientada a objetos (OOP)
+- Interface de linha de comando (CLI)
+
+## Teste online
+
+Você também pode testar diretamente no Repl:  
+[Clique aqui para abrir o Simple Bank](https://replit.com/@ccaimanteodoro/simple-bank-api)
+
+---
